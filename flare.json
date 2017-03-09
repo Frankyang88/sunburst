@@ -1,0 +1,55 @@
+{
+ "name": "flare",
+ "children": [
+  {
+  
+   "name": "A1",
+   "children": [
+    {
+     "name": "A11",
+     "children": [
+      {"name": "A111", "size": 2500 },
+      {"name": "A112", "size": 500}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "A2",
+   "children": [
+    {"name": "A21", "size": 1000}
+   ]
+  },
+  {
+   "name": "A3",
+   "children": [
+    {
+     "name": "A31",
+     "children": [
+      {"name": "A3111", "size": 1000}
+     ]
+    },
+    {
+     "name": "A32",
+     "children": [
+      {"name": "A321", "size": 1000},
+      {"name": "A322", "size": 1000}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "A4",
+   "children": [
+    {
+     "name": "A41",
+     "children": [
+      {"name": "A411", "size": 1000},
+      {"name": "A412", "size": 1000}
+     ]
+    },
+    {"name": "A42", "size": 1000}
+   ]
+  }
+ ]
+}
