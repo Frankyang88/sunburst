@@ -1,0 +1,129 @@
+{
+ "name": "flare",
+ "children": [
+  {
+  
+   "name": "A1",
+   "children": [
+    {
+     "name": "A12",
+     "children": [
+      {"name": "A126", "size": 13 },
+	  {"name": "A127", "size": 21 },
+      {"name": "A128", "size": 13}
+     ]
+    },
+    {
+     "name": "A13",
+     "children": [
+      {"name": "A132", "size": 11 },
+	  {"name": "A134", "size": 169 },
+      {"name": "A135", "size": 609},
+	  {"name":"A136","size":30}
+     ]
+    },
+    {
+     "name": "A14",
+     "children": [
+      {"name": "A143", "size": 45 }
+     ]
+    },
+    {
+     "name": "A15",
+     "children": [
+      {"name": "A159", "size": 120 },
+	  {"name": "A154", "size": 1300 },
+      {"name": "A153", "size": 3842}
+     ]
+    },
+	 {
+     "name": "A17",
+     "children": [
+      {"name": "A172", "size": 101},
+	  {"name": "A179", "size": 55}
+	  
+	  ]
+    },
+    {
+     "name": "A18",
+     "children": [
+      {"name": "A182", "size": 16},
+	  {"name": "NULL","size":20}
+     ]
+    },
+	    {
+     "name": "A19",
+     "children": [
+      {"name": "A196", "size": 15 }
+     ]
+    }
+	]
+	
+   
+  },
+  {
+   "name": "A2",
+   "children": [
+    {"name": "A23", "size": 227},
+	{"name": "A24", "size": 54},
+	{"name": "A26", "children":[ 
+		{"name": "A263", "size": 654},
+		{"name": "A268", "size": 176},
+		{"name": "A269", "size": 279}
+	]},
+	
+	{"name": "A27", "size": 157},
+	{"name": "A28", "size": 461},
+	{"name": "A29", "size": 100}
+   ]
+  },
+  {
+   "name": "A3",
+   "children": [
+    {
+     "name": "A31",
+     "children": [
+      {"name": "A3111", "size": 1000}
+     ]
+    },
+    {
+     "name": "A32",
+     "children": [
+      {"name": "A321", "size": 1000},
+      {"name": "A322", "size": 1000}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "A4",
+   "children": [
+    {"name": "A42", "size": 167},
+	{"name": "A43", "size": 1403},
+	{"name": "A45", "size": 118},
+	{"name": "A48", "size": 828},
+	{"name": "NULL", "size": 20000}
+   ]
+  },
+   {
+   "name": "A5",
+   "children": [
+    {"name": "A51", "size": 5000},
+	{"name": "A53", "size": 1000},
+	{"name": "A54", "size": 3390},
+	{"name": "A321", "size": 400}
+   ]
+  },
+  {
+   "name": "A6",
+   "children": [
+    {"name": "A62", "size": 671},
+	{"name": "A63", "size": 217},
+	{"name": "A69", "size": 194}
+   ]
+  }
+ 
+  
+  
+ ]
+}
